@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://samad0san.hashnode.dev/](https://samad0san.hashnode.dev/)
 
-- 💬 Ask me about **AWS, DevOps and Java**
+- 💬 Ask me about **AWS, DevOps and Java and JS**
 
 - 📫 How to reach me **sohaibsamad.hala@gmail.com**
 
