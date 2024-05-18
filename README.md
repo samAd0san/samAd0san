@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm sohaib samad</h1>
+<h1 align="center">Hi 👋, I'm Sohaib Samad</h1>
 <h3 align="center">I'm a Full Stack Engineer with expertise in Cloud and DevOps.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samad0san&label=Profile%20views&color=0e75b6&style=flat" alt="samad0san" /> </p>
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **AWS, DevOps, MERN and JavaScirpt**
 
-- 📫 How to reach me **sohaibsamad.hala@gmail.com**
+- 📫 Reach me via LinkedIn **https://www.linkedin.com/in/sohaib-samad/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
