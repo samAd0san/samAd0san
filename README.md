@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samad0san&label=Profile%20views&color=0e75b6&style=flat" alt="samad0san" /> </p>
 
-- 🌱 I’m currently learning **advance concepts of MERN and DevOps**
+- 🌱 I’m currently working on **Scala/Akka and MERN**
 
 - 📝 I regularly write articles on [https://samad0san.hashnode.dev/](https://samad0san.hashnode.dev/)
 
-- 💬 Ask me about **AWS, DevOps, MERN and JavaScirpt**
+- 💬 Ask me about **AWS, DevOps, MERN, Scala/Akka and JavaScirpt**
 
 - 📫 Reach me via LinkedIn **https://www.linkedin.com/in/sohaib-samad/**
 
