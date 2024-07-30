@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently working on **Scala/Akka and MERN**
 
-- 📝 I regularly write articles on [https://samad0san.hashnode.dev/](https://samad0san.hashnode.dev/)
-
 - 💬 Ask me about **AWS, DevOps, MERN, Scala/Akka and JavaScirpt**
 
 - 📫 Reach me via LinkedIn **https://www.linkedin.com/in/sohaib-samad/**
