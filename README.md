@@ -1,13 +1,11 @@
-💫 About Me:
-🔭 Backend Engineer with expertise in Scala, Akka, and Kafka, building scalable solutions at a startup.
-🌟 Proficient in creating robust backend systems, including authentication apps, cache management, and DMN integrations with Camunda.
-☁️ Cloud DevOps Enthusiast with hands-on experience in deploying and managing scalable cloud infrastructures.
-🚀 Passionate about full-stack development using Play Framework, PostgreSQL, and React, working closely with frontend teams to facilitate seamless application development.
-📚 Always eager to learn new technologies, currently diving into Blockchain and React Native.
-🎓 A final-year student with a keen interest in Distributed Systems and Data Mining, preparing for the next chapter in my journey.
+# 💫 About Me:
 
-
-
+👨‍💻 **Backend Engineer** with expertise in **Scala**, **Akka**, and **Kafka**, currently building scalable solutions at a startup.  
+✨ Experienced in crafting **robust backend systems**, including **authentication apps**, **cache management**, and **DMN integrations** with **Camunda**.  
+☁️ Skilled in **Cloud DevOps** practices, with hands-on experience in deploying and managing **scalable cloud infrastructure**.  
+🚀 Passionate about creating **full-stack solutions** using **Play Framework**, **PostgreSQL**, and **React**, and collaborating with frontend teams to streamline application development.  
+📚 Always eager to learn new technologies, currently diving into **Blockchain** and **React Native**.  
+🎓 Final-year student with a keen interest in **distributed systems** and **data mining**.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/sohaib-samad) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@sohaibsamad.hala) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/sohaib-samad) 
 
