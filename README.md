@@ -1,5 +1,11 @@
-# 💫 About Me:
-🔭 I’m a backend engineer with expertise in Scala, Akka, and Kafka, currently working on scalable solutions at a startup.<br>🌟 Experienced in building robust backend systems, including authentication apps, cache management, and DMN integrations with Camunda.<br>☁️ Skilled in Cloud DevOps practices, with experience in deploying and managing scalable cloud infrastructure.<br>🚀 I enjoy creating full-stack solutions using Play Framework, PostgreSQL, and React, and collaborating with frontend teams for facilitating development of an application.<br>📚 Passionate about learning new technologies, currently exploring Blockchain and React Native.<br>🎓 I’m also a student preparing for my final semester, with an interest in distributed systems and data mining.
+💫 About Me:
+🔭 Backend Engineer with expertise in Scala, Akka, and Kafka, building scalable solutions at a startup.
+🌟 Proficient in creating robust backend systems, including authentication apps, cache management, and DMN integrations with Camunda.
+☁️ Cloud DevOps Enthusiast with hands-on experience in deploying and managing scalable cloud infrastructures.
+🚀 Passionate about full-stack development using Play Framework, PostgreSQL, and React, working closely with frontend teams to facilitate seamless application development.
+📚 Always eager to learn new technologies, currently diving into Blockchain and React Native.
+🎓 A final-year student with a keen interest in Distributed Systems and Data Mining, preparing for the next chapter in my journey.
+
 
 
 ## 🌐 Socials:
