@@ -6,6 +6,7 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/samAd0san/count.svg?"  />
 </div>
+
 # 💫 About Me:
 
 🔭 **Backend Engineer** with expertise in **Scala**, **Akka**, and **Kafka**, building scalable solutions at a startup.  
