@@ -6,7 +6,6 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/samAd0san/count.svg?"  />
 </div>
-<br clear="both">
 
 # 💫 About Me:
 
