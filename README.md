@@ -5,7 +5,7 @@
 ###
 <div align="center">
   <h6 align="center">VISITORS</h6>
-  <img src="https://profile-counter.glitch.me/samAd0san/count.svg?"  />
+  <img src="https://komarev.com/ghpvc/?username=samAd0san&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="samAd0san" />
 </div>
 
 # 💫 About Me:
